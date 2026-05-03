@@ -1,19 +1,19 @@
-# 🧪 Experiment 09: Hash-Based File Comparison & Integrity Verification
+# Experiment 09: Hash-Based File Comparison & Integrity Verification
 
-## 🎯 Objective
+## Objective
 
 To generate and compare cryptographic hash values (SHA-256 and MD5) to verify file integrity and detect any modifications.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * sha256sum
 * md5deep
 
 ---
 
-## ⚙️ Procedure
+## Procedure
 
 ### Step 1: Select Files
 
@@ -57,20 +57,20 @@ md5deep -r folder/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![SHA256 Output](screenshots/hash1.png)
 ![MD5 Output](screenshots/hash2.png)
 
 ---
 
-## 📊 Result
+## Result
 
 Hash values were successfully generated for selected files. Matching hashes confirmed file integrity, while differences indicated modification.
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 Hashing is an essential technique in digital forensics to ensure data integrity and detect tampering.
 
