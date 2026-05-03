@@ -1,19 +1,19 @@
-# 🧪 Experiment 10: Incident Reconstruction using Logs
+# Experiment 10: Incident Reconstruction using Logs
 
-## 🎯 Objective
+## Objective
 
 To analyze system and network logs and reconstruct a sequence of events to simulate a digital forensic investigation.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 * System Logs (journalctl / log files)
 * Timesketch (optional)
 
 ---
 
-## ⚙️ Procedure
+## Procedure
 
 ### Step 1: Collect System Logs
 
@@ -66,20 +66,20 @@ grep "error" logs.txt
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![Logs Output](screenshots/logs.png)
 ![Filtered Logs](screenshots/filter.png)
 
 ---
 
-## 📊 Result
+## Result
 
 System logs were successfully analyzed and a sequence of events was reconstructed, identifying potential suspicious activities.
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 Log analysis helps investigators reconstruct incidents and understand system behavior during an event.
 
